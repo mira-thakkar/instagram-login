@@ -1,4 +1,5 @@
 <?php
+//specify app credentials
  $instagram = new Instagram(array(
      'apiKey'      => 'client_id',
      'apiSecret'   => 'client_secret',
